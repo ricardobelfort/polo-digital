@@ -1,0 +1,1076 @@
+{
+  "days": [
+    {
+      "id": "15",
+      "trilha": [
+        {
+          "room": "Salão Nobre",
+          "title": "Cerimônia de Abertura",
+          "hour": "09:00",
+          "duration": "03:00",
+          "chairman": "Vania Capela",
+          "chairman-company": "Sidia Instituto de Ciência e Tecnologia",
+          "talks": [
+            {
+              "talk-id": "1",
+              "title": "Posicionamento de autoridades",
+              "hour": "09:00",
+              "duration": "00:15",
+              "speakers": []
+            },
+            {
+              "talk-id": "2",
+              "title": "Hino Nacional",
+              "hour": "09:15",
+              "duration": "00:05",
+              "speakers": []
+            },
+            {
+              "talk-id": "3",
+              "title": "Apresentação do vídeo - Manaus Inteligente",
+              "hour": "09:20",
+              "duration": "00:10",
+              "speakers": []
+            },
+            {
+              "talk-id": "4",
+              "title": "Discursos e apresentações das autoridades presentes",
+              "hour": "09:30",
+              "duration": "02:30",
+              "speakers": [
+                {
+                  "name": "Vitor Menezes",
+                  "position": "Secretário de Telecomunicações",
+                  "company": "Ministério da Ciência, Tecnologia, Inovações e Comunicações - MCTIC"
+                },
+                {
+                  "name": "José Gustavo Gontijo",
+                  "position": "Diretor do Departamento de Ciência, Tecnologia e Inovação Digital - DECTI",
+                  "company": "Ministério da Ciência, Tecnologia, Inovações e Comunicações - MCTIC"
+                },
+                {
+                  "name": "Vicente Aquino Neto",
+                  "position": "Conselheiro",
+                  "company": "Agência Nacional de Telecomunicações - Anatel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": "Salão Nobre",
+          "title": "Liderança & Criatividade & Empreendedorismo",
+          "chairman": "Daniel Goettenauer",
+          "chairman-company": "Sidia Instituto de Ciência e Tecnologia",
+          "talks": [
+            {
+              "talk-id": "5",
+              "title": "Painel Startups de Manaus",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Amaike Keric",
+                  "company": "Trocados"
+                },
+                {
+                  "name": "Macaulay Souza",
+                  "company": "Onisafra"
+                },
+                {
+                  "name": "Pedro Cavalcante",
+                  "company": "Communy"
+                },
+                {
+                  "name": "Flávio Filho",
+                  "company": "eMercado"
+                }
+              ]
+            },
+            {
+              "talk-id": "6",
+              "title": "Ecossistema Santa Catarina",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Alexandre Souza",
+                  "company": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - Sebrae/SC"
+                }
+              ]
+            },
+            {
+              "talk-id": "7",
+              "title": "Cidades Digitais e inteligentes: Da Inteligência computacional para as Ciências Socias aplicadas",
+              "hour": "16:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Thays Oliveira",
+                  "company": "Universidade de Passo Fundo - UPF"
+                }
+              ]
+            },
+            {
+              "talk-id": "8",
+              "title": "Promovendo governança digital no estado Báltico",
+              "hour": "17:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Toomas Hendrik Ilves",
+                  "company": "Ex-Presidente da Estônia"
+                }
+              ]
+            },
+            {
+              "talk-id": "9",
+              "title": "Inovação digital + Transformação estratégica = transformação digital",
+              "hour": "18:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Silvio Meira",
+                  "company": "Centro de Estudos e Sistemas Avançados do Recife - C.E.S.A.R"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": "Sala 2 + 3",
+          "title": "Tecnologias e Sociedade",
+          "chairman": "Santhyago Gallão",
+          "chairman-company": "Sidia Instituto de Ciência e Tecnologia",
+          "talks": [
+            {
+              "talk-id": "10",
+              "title": "Como prestar serviços através de assistentes de voz: caso de uso da plataforma Declare Fácil",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Luis Leão",
+                  "company": "Declare Fácil"
+                }
+              ]
+            },
+            {
+              "talk-id": "11",
+              "title": "Computação ubíqua e móvel",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Michel Calacina",
+                  "company": "Centro de Estudos e Sistemas Avançados do Recife - C.E.S.A.R"
+                }
+              ]
+            },
+            {
+              "talk-id": "12",
+              "title": "Das cidades inteligentes para cidades sensíveis: um case de uma jornada guiada em processos criativos",
+              "hour": "16:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Leila Ribeiro",
+                  "company": "Sala"
+                }
+              ]
+            },
+            {
+              "talk-id": "13",
+              "title": "Sistema de chamada de emergência e app \"aviso polícia\"",
+              "hour": "17:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Major Marco Gama",
+                  "company": "Secretaria de Segurança Pública do Estado do Amazonas - SSP/AM"
+                }
+              ]
+            },
+            {
+              "talk-id": "14",
+              "title": "Navegando por cidades inteligentes",
+              "hour": "18:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Stella Hiroki",
+                  "company": "Cidades Inteligentes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": "Auditório",
+          "title": "Agilidade",
+          "chairman": "Alexandre Amorim",
+          "chairman-company": "FPF Tech",
+          "talks": [
+            {
+              "talk-id": "15",
+              "title": "Ferramentas de Gestão 3.0",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Júlia Hipólito",
+                  "company": "Sidia Instituto de Ciência e Tecnologia"
+                }
+              ]
+            },
+            {
+              "talk-id": "16",
+              "title": "Lean Inception",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Alexandre Amorim",
+                  "company": "FPF Tech"
+                }
+              ]
+            },
+            {
+              "talk-id": "17",
+              "title": "Facilitação",
+              "hour": "16:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Samuel Cavalcante",
+                  "company": "K21"
+                }
+              ]
+            },
+            {
+              "talk-id": "18",
+              "title": "Product Backlog Building",
+              "hour": "17:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Fábio Aguiar",
+                  "company": "Accenture"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": "Sala 1",
+          "title": "Transformação Digital",
+          "chairman": "João Clineu",
+          "chairman-company": "Centro de Estudos e Sistemas Avançados do Recife - C.E.S.A.R",
+          "talks": [
+            {
+              "talk-id": "19",
+              "title": "Painel Os desafios da transformação digital no Mundo VUCA",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Willian Albuquerque",
+                  "company": ""
+                },
+                {
+                  "name": "Daniel Tadeu",
+                  "company": "BEMOL"
+                },
+                {
+                  "name": "Márcio Lira",
+                  "company": "BEMOL"
+                }
+              ]
+            },
+            {
+              "talk-id": "20",
+              "title": "Parque Mosaico, o primeiro bairro inteligente de Manaus",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "José Henrique Lanna",
+                  "company": "Mixcon"
+                }
+              ]
+            },
+            {
+              "talk-id": "21",
+              "title": "Do analógico ao digital",
+              "hour": "16:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Eduardo Peixoto",
+                  "company": "Centro de Estudos e Sistemas Avançados do Recife - C.E.S.A.R"
+                }
+              ]
+            },
+            {
+              "talk-id": "22",
+              "title": "Instrumentos de apoio à transformação digital",
+              "hour": "17:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Newton Kenji Hamatsu",
+                  "company": "Financiadora de Estudos e Projetos - FINEP"
+                }
+              ]
+            },
+            {
+              "talk-id": "23",
+              "title": "Escalabilidade de negócios digitais: novos KPIs para gestão em investimentos em marketing",
+              "hour": "18:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Cintia Gontijo",
+                  "company": "Gonnatech"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "trilha": [
+        {
+          "room": "Salão Nobre",
+          "title": "Liderança & Criatividade & Empreendedorismo",
+          "chairman": "Larisse Drumond",
+          "chairman-company": "Secretaria Municipal do Trabalho, Empreendedorismo e Inovação - SEMTEPI",
+          "talks": [
+            {
+              "talk-id": "24",
+              "title": "City Smartup - A nova era de cidades mais inteligentes",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Renato de Castro",
+                  "company": "Holobox"
+                }
+              ]
+            },
+            {
+              "talk-id": "25",
+              "title": "Painel Empreendedorismo e Criatividade: como os negócios contribuem para o desenvolvimento de uma cidade",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Ananda Carvalho",
+                  "company": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - Sebrae/AM"
+                },
+                {
+                  "name": "Durval Braga Neto",
+                  "company": "Parque de Ideias"
+                },
+                {
+                  "name": "Luciana Minev",
+                  "company": "Singulari"
+                },
+                {
+                  "name": "Mario Cesar Araújo",
+                  "company": "MC Sistemas de Comunicações LTDA. - MCCOM"
+                }
+              ]
+            },
+            {
+              "talk-id": "26",
+              "title": "Painel Cidades Criativas, Inteligentes, Humanas e Sustentáveis",
+              "hour": "16:00",
+              "duration": "01:10",
+              "speakers": [
+                {
+                  "name": "Mario Cesar Araújo",
+                  "company": "MC Sistemas de Comunicações Ltda. - MCCOM"
+                },
+                {
+                  "name": "Ricardo Moraes",
+                  "company": "Banco Nacional de Desenvolvimento Econômico e Social - BNDES, Garagem Startups"
+                },
+                {
+                  "name": "Leonardo Capdeville",
+                  "company": "TIM"
+                },
+                {
+                  "name": "Sérgio Magalhães",
+                  "company": "Prefeitura de Manaus"
+                }
+              ]
+            },
+            {
+              "talk-id": "27",
+              "title": "Criatividade para Solução de Problemas",
+              "hour": "18:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Murilo Gun",
+                  "company": "Keep Learning School"
+                }
+              ]
+            },
+            {
+              "talk-id": "28",
+              "title": "Ambientes de Empreendedorismo e Inovação: lançamento do edital para incubação de empresas",
+              "hour": "19:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Gracyane Taveira",
+                  "company": "Instituto Nacional de Pesquisas da Amazônia - INPA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": "Sala 2 + 3",
+          "title": "Tecnologias e Sociedade",
+          "chairman": "Roberto Garcia",
+          "chairman-company": "FPF Tech",
+          "talks": [
+            {
+              "talk-id": "29",
+              "title": "A Quarta Onda - E eu com isto?",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Roberto Garcia",
+                  "company": "FPF Tech e Instituto de Desenvolvimento Tecnológico - INDT"
+                }
+              ]
+            },
+            {
+              "talk-id": "30",
+              "title": "Caso 3M Manaus",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Fernando Pellicano",
+                  "company": "3M Manaus"
+                }
+              ]
+            },
+            {
+              "talk-id": "31",
+              "title": "Indústria de Soluções para Manufatura Avançada",
+              "hour": "16:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Túlio Duarte Silva",
+                  "company": "Grupo ICTS"
+                }
+              ]
+            },
+            {
+              "talk-id": "32",
+              "title": "Caso Technicolor",
+              "hour": "17:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Paulo Xavier",
+                  "company": "Technicolor do Brasil"
+                }
+              ]
+            },
+            {
+              "talk-id": "33",
+              "title": "A Indústria 4.0, o propósito, os processos e a liderança lean",
+              "hour": "18:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Cid Fontana Lopes",
+                  "company": "Lean Institute do Brasil"
+                }
+              ]
+            },
+            {
+              "talk-id": "34",
+              "title": "Cases de manufatura 4.0 utilizando financiamento EMBRAPII",
+              "hour": "19:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Carlos Eduardo Pereira",
+                  "company": "Empresa Brasileira de Pesquisa e Inovação Industrial - EMBRAPII"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": "Auditório",
+          "title": "Pesquisa Científica",
+          "chairman": "Reginaldo Carvalho",
+          "chairman-company": "Instituto de Computação - IComp",
+          "talks": [
+            {
+              "talk-id": "35",
+              "title": "Deep Learning para Processamento de Linguagem Natural",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Dr. Roberto Lotufo",
+                  "company": "Universidade Estadual de Campinas - UNICAMP"
+                }
+              ]
+            },
+            {
+              "talk-id": "36",
+              "title": "Ecossistema de Inovação da Alta Paulista",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Dr. Hannes Fischer",
+                  "company": "Centro de Inovação no Agronegócio - CIAg"
+                }
+              ]
+            },
+            {
+              "talk-id": "37",
+              "title": "O Programa Ciência na Escola",
+              "hour": "16:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Dra. Maria Zaira Turchi",
+                  "company": "Ministério da Ciência, Tecnologia, Inovações e Comunicações - MCTIC"
+                }
+              ]
+            },
+            {
+              "talk-id": "38",
+              "title": "Internet do Futuro e Cidades Inteligentes",
+              "hour": "17:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Dra. Kelly Rosa Braghetto",
+                  "company": "Instituto de Matemática e Estatística da Universidade de São Paulo - IME/USP"
+                }
+              ]
+            },
+            {
+              "talk-id": "39",
+              "title": "Aprendizado de Máquina e a Concepção de Funcionalidades para Sistemas de Comunicações Móveis de Próxima Geração",
+              "hour": "18:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Dr. Vicente Angelo de Sousa Júnior",
+                  "company": "Universidade Federal do Rio Grande do Norte - UFRN"
+                }
+              ]
+            },
+            {
+              "talk-id": "40",
+              "title": "Desenvolvendo novos produtos a partir da reciclagem e redução do impacto ambiental dos resíduos",
+              "hour": "19:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Dr. Antonio Claudio Kieling",
+                  "company": "Universidade do Estado do Amazonas - UEA"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": "Sala 1",
+          "title": "Tecnologias Emergentes",
+          "chairman": "Daniel Lins e Sergio Junqueira",
+          "chairman-company": "Instituto TRIAD Systems - iTRIAD",
+          "talks": [
+            {
+              "talk-id": "41",
+              "title": "Tecnologias Emergentes",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Paulo Sandrini",
+                  "company": "Semp TCL"
+                }
+              ]
+            },
+            {
+              "talk-id": "42",
+              "title": "Tendências Tecnológicas para 2020, ao infinito e além",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Deraldo Almeida",
+                  "company": "GARTNER"
+                }
+              ]
+            },
+            {
+              "talk-id": "43",
+              "title": "Transformação Digital",
+              "hour": "16:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Douglas Fernandes",
+                  "company": "PTC"
+                },
+                {
+                  "name": "Rafael Nepomuceno",
+                  "company": "PTC"
+                }
+              ]
+            },
+            {
+              "talk-id": "44",
+              "title": "Tecnologias Emergentes e a LGPD",
+              "hour": "17:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Fábio Sena da Luz",
+                  "company": "YAMAHA"
+                }
+              ]
+            },
+            {
+              "talk-id": "45",
+              "title": "Análise de Maturidade e Prontidão da Indústria 4.0 no PIM",
+              "hour": "18:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Sandro Breval Santiago",
+                  "company": "Universidade Federal do Amazonas - UFAM"
+                }
+              ]
+            },
+            {
+              "talk-id": "46",
+              "title": "Implementação da Indústria 4.0",
+              "hour": "19:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Augusto Cesar Rocha",
+                  "company": "Universidade Federal do Amazonas - UFAM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "trilha": [
+        {
+          "room": "Salão Nobre",
+          "title": "Cerimônia de Encerramento",
+          "hour": "10:00",
+          "duration": "02:00",
+          "chairman": "Vania Capela",
+          "chairman-company": "Sidia Instituto de Ciência e Tecnologia",
+          "talks": [
+            {
+              "talk-id": "47",
+              "title": "Posicionamento de autoridades",
+              "hour": "10:00",
+              "duration": "00:15",
+              "speakers": []
+            },
+            {
+              "talk-id": "48",
+              "title": "Discursos e apresentações das autoridades presentes",
+              "hour": "10:15",
+              "duration": "01:00",
+              "speakers": []
+            },
+            {
+              "talk-id": "49",
+              "title": "Apresentação do vídeo do evento",
+              "hour": "11:15",
+              "duration": "11:30",
+              "speakers": []
+            }
+          ]
+        },
+        {
+          "room": "Salão Nobre",
+          "title": "Jogos Digitais & Criatividade",
+          "chairman": "Ronaldo Nonato",
+          "chairman-company": "Sidia Instituto de Ciência e Tecnologia",
+          "talks": [
+            {
+              "talk-id": "50",
+              "title": "Case Behold Studios: como empreender em uma indústria em constante mudança",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Saulo Camarotti",
+                  "company": "Behold Studios"
+                }
+              ]
+            },
+            {
+              "talk-id": "51",
+              "title": "Aprendizados com jogos AAA: Melhores práticas de Game Design",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Nicholas Souza",
+                  "company": "Ubisoft"
+                }
+              ]
+            },
+            {
+              "talk-id": "52",
+              "title": "Liderando Equipes para o Sucesso",
+              "hour": "16:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Reginaldo Valadares",
+                  "company": "Rovio Estocolmo"
+                }
+              ]
+            },
+            {
+              "talk-id": "53",
+              "title": "Desenvolva-se, Desenvolva sua Equipe, Desenvolva seu Jogo: Produzindo com Confiança",
+              "hour": "17:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Steve Cuss",
+                  "company": "Criterion/EA"
+                }
+              ]
+            },
+            {
+              "talk-id": "54",
+              "title": "A Linguagem da Emoção",
+              "hour": "18:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Neal Acree",
+                  "company": "Neal Acree Music"
+                }
+              ]
+            },
+            {
+              "talk-id": "55",
+              "title": "Inovação: a criatividade na era digital",
+              "hour": "19:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Marcelo Tas",
+                  "company": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": "Sala 2 + 3",
+          "title": "UX/Design",
+          "chairman": "Wilson Prata",
+          "chairman-company": "Sidia Instituto de Ciência e Tecnologia",
+          "talks": [
+            {
+              "talk-id": "56",
+              "title": "Um olhar do design estratégico para ecossistemas criativos e processos urbanos",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Aline Bueno",
+                  "company": "Universidade do Vale do Rio dos Sinos - UNISINOS"
+                }
+              ]
+            },
+            {
+              "talk-id": "57",
+              "title": "YouTube: a fotografia como ferramenta para guiar o desenvolvimento de produtos focados no usuário",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Renato Verdugo",
+                  "company": "YouTube"
+                }
+              ]
+            },
+            {
+              "talk-id": "58",
+              "title": "Modelos de Cidade para um Futuro Sustentável e Digital",
+              "hour": "16:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Caio Vassão",
+                  "company": "Kyvo"
+                }
+              ]
+            },
+            {
+              "talk-id": "59",
+              "title": "Expectativa, Experiência e o Elo Perdido",
+              "hour": "17:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Ivan Lucchini",
+                  "company": "INSITUM"
+                }
+              ]
+            },
+            {
+              "talk-id": "60",
+              "title": "Princípios básicos de UX e um quê de psicologia cognitiva",
+              "hour": "18:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Flavio Lamenza",
+                  "company": "Vodafone, UK"
+                }
+              ]
+            },
+            {
+              "talk-id": "61",
+              "title": "Fazendo Design para as Linguagens do Futuro",
+              "hour": "19:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Rita Parada",
+                  "company": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": "Auditório",
+          "title": "e-Gov",
+          "chairman": "Leonardo Silva",
+          "chairman-company": "Secretaria de Planejamento, Desenvolvimento, Ciência, Tecnologia e Inovação - SEPLANCTI",
+          "talks": [
+            {
+              "talk-id": "62",
+              "title": "Transformação Digital na Esfera do Governo",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Luis Felipe Monteiro",
+                  "company": "Ministério da Economia"
+                }
+              ]
+            },
+            {
+              "talk-id": "63",
+              "title": "Parcerias entre o ecossistema de startups e o setor público para a transformação digital no Brasil",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Leticia Piccoloto",
+                  "company": "Brasil Lab"
+                }
+              ]
+            },
+            {
+              "talk-id": "64",
+              "title": "Cidades Digitais",
+              "hour": "16:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "João Guilherme Silva",
+                  "company": "Processamento de Dados do Amazonas S/A - PRODAM"
+                }
+              ]
+            },
+            {
+              "talk-id": "65",
+              "title": "Projeto Manaus Inteligente e Ambiente de Geocolaboração Prefeitura de Manaus / Gestão_Pública_4.0: Projeto Licenciamento Integrado municipal Prefeitura de Manaus",
+              "hour": "17:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Sérgio Souza",
+                  "company": "Prefeitura de Manaus"
+                },
+                {
+                  "name": "George Serra",
+                  "company": "Prefeitura de Manaus"
+                },
+                {
+                  "name": "Alain Costa",
+                  "company": "Prefeitura de Manaus"
+                },
+                {
+                  "name": "Keyla Ahnizeret",
+                  "company": "Prefeitura de Manaus"
+                }
+              ]
+            },
+            {
+              "talk-id": "66",
+              "title": "Pitch Govtech",
+              "hour": "18:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Lucas Prado",
+                  "company": "Meritocracity"
+                },
+                {
+                  "name": "Francisco Higuchi",
+                  "company": "UN1TY"
+                },
+                {
+                  "name": "Igor Guadalupe",
+                  "company": "GESUAS"
+                },
+                {
+                  "name": "Rodolfo Lira",
+                  "company": "UP Saúde"
+                },
+                {
+                  "name": "Hamilton Alves",
+                  "company": "Fábrica de Negócios"
+                }
+              ]
+            },
+            {
+              "talk-id": "67",
+              "title": "Programa Prioritário de Economia Digital (INDT) e Programa Prioritário de Formação de RH (Fundação Muraki)",
+              "hour": "19:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Geraldo Feitoza",
+                  "company": "Instituto de Desenvolvimento Tecnológico - INDT"
+                },
+                {
+                  "name": "Fernando Moreira",
+                  "company": "Fundação de Apoio Institucional Muraki"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "room": "Sala 1",
+          "title": "Tecnologia Verde / Sustentabilidade",
+          "chairman": "Victor Almeida",
+          "chairman-company": "Sidia Instituto de Ciência e Tecnologia",
+          "talks": [
+            {
+              "talk-id": "68",
+              "title": "O uso da tecnologia para cidades mais biofílicas",
+              "hour": "14:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Isadora Feijó",
+                  "company": "Ecotelhado"
+                }
+              ]
+            },
+            {
+              "talk-id": "69",
+              "title": "A Biotecnologia 4.0 e o Futuro do Desenvolvimento Sustentável da Amazônia",
+              "hour": "15:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Dr. Spartaco Astolfi Filho",
+                  "company": ""
+                }
+              ]
+            },
+            {
+              "talk-id": "68",
+              "title": "Lixo eletrônico: desafios e oportunidades",
+              "hour": "16:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Alessandro Dinelli",
+                  "company": "Descarte Correto"
+                },
+                {
+                  "name": "Rafael Nepomuceno",
+                  "company": "PTC"
+                }
+              ]
+            },
+            {
+              "talk-id": "69",
+              "title": "Microsoft Azure: Utilizando Inteligência Artificial para construir uma Nuvem Sustentável e Eficiente",
+              "hour": "17:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Eli Cortez",
+                  "company": "Microsoft USA"
+                }
+              ]
+            },
+            {
+              "talk-id": "70",
+              "title": "Programa Prioritário de Bioeconomia: Oportunidades da Bioeconomia para Diversificação da Matriz Econômica da Amazônia",
+              "hour": "18:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Carlos Gabriel Koury",
+                  "company": "IDESAM"
+                }
+              ]
+            },
+            {
+              "talk-id": "71",
+              "title": "Usando dados para avaliação de políticas públicas de mobilidade urbana",
+              "hour": "19:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Roberto Speicys",
+                  "company": "Scipopulis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
