@@ -4,6 +4,21 @@
       "id": "15",
       "trilha": [
         {
+          "room": "Credenciamento",
+          "title": "Credenciamento - Entrada",
+          "chairman": "",
+          "chairman-company": "Polo digital",
+          "talks": [
+            {
+              "talk-id": "1001",
+              "title": "Credenciamento dia 15",
+              "hour": "15:00",
+              "duration": "00:30",
+              "speakers": []
+            }]
+        },
+            
+        {
           "room": "Salão Nobre",
           "title": "Liderança & Criatividade & Empreendedorismo",
           "chairman": "Daniel Goettenauer",
@@ -324,6 +339,20 @@
     {
       "id": "16",
       "trilha": [
+        {
+          "room": "Credenciamento",
+          "title": "Credenciamento - Entrada",
+          "chairman": "",
+          "chairman-company": "Polo digital",
+          "talks": [
+            {
+              "talk-id": "1002",
+              "title": "Credenciamento dia 16",
+              "hour": "15:00",
+              "duration": "00:30",
+              "speakers": []
+            }]
+        },
         {
           "room": "Salão Nobre",
           "title": "Liderança & Criatividade & Empreendedorismo",
@@ -665,6 +694,20 @@
     {
       "id": "17",
       "trilha": [
+        {
+          "room": "Credenciamento",
+          "title": "Credenciamento - Entrada",
+          "chairman": "",
+          "chairman-company": "Polo digital",
+          "talks": [
+            {
+              "talk-id": "1003",
+              "title": "Credenciamento dia 17",
+              "hour": "15:00",
+              "duration": "00:30",
+              "speakers": []
+            }]
+        },
         {
           "room": "Salão Nobre",
           "title": "Jogos Digitais & Criatividade",
