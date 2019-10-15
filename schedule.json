@@ -5,60 +5,6 @@
       "trilha": [
         {
           "room": "Salão Nobre",
-          "title": "Cerimônia de Abertura",
-          "hour": "09:00",
-          "duration": "03:00",
-          "chairman": "Vania Capela",
-          "chairman-company": "Sidia Instituto de Ciência e Tecnologia",
-          "talks": [
-            {
-              "talk-id": "1",
-              "title": "Posicionamento de autoridades",
-              "hour": "09:00",
-              "duration": "00:15",
-              "speakers": []
-            },
-            {
-              "talk-id": "2",
-              "title": "Hino Nacional",
-              "hour": "09:15",
-              "duration": "00:05",
-              "speakers": []
-            },
-            {
-              "talk-id": "3",
-              "title": "Apresentação do vídeo - Manaus Inteligente",
-              "hour": "09:20",
-              "duration": "00:10",
-              "speakers": []
-            },
-            {
-              "talk-id": "4",
-              "title": "Discursos e apresentações das autoridades presentes",
-              "hour": "09:30",
-              "duration": "02:30",
-              "speakers": [
-                {
-                  "name": "Vitor Menezes",
-                  "position": "Secretário de Telecomunicações",
-                  "company": "Ministério da Ciência, Tecnologia, Inovações e Comunicações - MCTIC"
-                },
-                {
-                  "name": "José Gustavo Gontijo",
-                  "position": "Diretor do Departamento de Ciência, Tecnologia e Inovação Digital - DECTI",
-                  "company": "Ministério da Ciência, Tecnologia, Inovações e Comunicações - MCTIC"
-                },
-                {
-                  "name": "Vicente Aquino Neto",
-                  "position": "Conselheiro",
-                  "company": "Agência Nacional de Telecomunicações - Anatel"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "room": "Salão Nobre",
           "title": "Liderança & Criatividade & Empreendedorismo",
           "chairman": "Daniel Goettenauer",
           "chairman-company": "Sidia Instituto de Ciência e Tecnologia",
@@ -95,13 +41,13 @@
               "speakers": [
                 {
                   "name": "Alexandre Souza",
-                  "company": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - Sebrae/SC"
+                  "company": "Sebrae/SC"
                 }
               ]
             },
             {
               "talk-id": "7",
-              "title": "Cidades Digitais e inteligentes: Da Inteligência computacional para as Ciências Socias aplicadas",
+              "title": "Smart and Digital Cities: From Computational Intelligence to Applied Social Sciences",
               "hour": "16:00",
               "duration": "00:50",
               "speakers": [
@@ -113,7 +59,7 @@
             },
             {
               "talk-id": "8",
-              "title": "Promovendo governança digital no estado Báltico",
+              "title": "Promoting digital governance in the Baltic state",
               "hour": "17:00",
               "duration": "00:50",
               "speakers": [
@@ -125,13 +71,25 @@
             },
             {
               "talk-id": "9",
-              "title": "Inovação digital + Transformação estratégica = transformação digital",
+              "title": "Inovação digital + Transformação estratégica = Transformação digital",
               "hour": "18:00",
               "duration": "00:50",
               "speakers": [
                 {
                   "name": "Silvio Meira",
-                  "company": "Centro de Estudos e Sistemas Avançados do Recife - C.E.S.A.R"
+                  "company": "C.E.S.A.R."
+                }
+              ]
+            },
+            {
+              "talk-id": "72",
+              "title": "Inovação digital + Transformação estratégica = Transformação digital",
+              "hour": "19:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Rozalvo Pereira Braga",
+                  "company": "Anatel"
                 }
               ]
             }
@@ -163,7 +121,7 @@
               "speakers": [
                 {
                   "name": "Michel Calacina",
-                  "company": "Centro de Estudos e Sistemas Avançados do Recife - C.E.S.A.R"
+                  "company": "C.E.S.A.R."
                 }
               ]
             },
@@ -187,7 +145,7 @@
               "speakers": [
                 {
                   "name": "Major Marco Gama",
-                  "company": "Secretaria de Segurança Pública do Estado do Amazonas - SSP/AM"
+                  "company": "SSP/AM"
                 }
               ]
             },
@@ -200,6 +158,18 @@
                 {
                   "name": "Stella Hiroki",
                   "company": "Cidades Inteligentes"
+                }
+              ]
+            },
+            {
+              "talk-id": "73",
+              "title": "Transformação Digital e Revitalização de Centros Históricos: o caso do Porto Digital, Recife",
+              "hour": "19:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Claudio Marinho",
+                  "company": "Porto Marinho"
                 }
               ]
             }
@@ -274,15 +244,15 @@
               "duration": "00:50",
               "speakers": [
                 {
+                  "name": "Márcio Lira",
+                  "company": "BEMOL"
+                },
+                {
                   "name": "Willian Albuquerque",
                   "company": ""
                 },
                 {
                   "name": "Daniel Tadeu",
-                  "company": "BEMOL"
-                },
-                {
-                  "name": "Márcio Lira",
                   "company": "BEMOL"
                 }
               ]
@@ -332,6 +302,18 @@
                 {
                   "name": "Cintia Gontijo",
                   "company": "Gonnatech"
+                }
+              ]
+            },
+            {
+              "talk-id": "74",
+              "title": "Cidades Inteligentes e Humanas - Uso do Smartphone e dos super apps como ferramenta de conexão entre a cidade e o cidadão",
+              "hour": "19:00",
+              "duration": "00:50",
+              "speakers": [
+                {
+                  "name": "Robson Lisboa",
+                  "company": "Midiacode"
                 }
               ]
             }
@@ -683,37 +665,6 @@
     {
       "id": "17",
       "trilha": [
-        {
-          "room": "Salão Nobre",
-          "title": "Cerimônia de Encerramento",
-          "hour": "10:00",
-          "duration": "02:00",
-          "chairman": "Vania Capela",
-          "chairman-company": "Sidia Instituto de Ciência e Tecnologia",
-          "talks": [
-            {
-              "talk-id": "47",
-              "title": "Posicionamento de autoridades",
-              "hour": "10:00",
-              "duration": "00:15",
-              "speakers": []
-            },
-            {
-              "talk-id": "48",
-              "title": "Discursos e apresentações das autoridades presentes",
-              "hour": "10:15",
-              "duration": "01:00",
-              "speakers": []
-            },
-            {
-              "talk-id": "49",
-              "title": "Apresentação do vídeo do evento",
-              "hour": "11:15",
-              "duration": "11:30",
-              "speakers": []
-            }
-          ]
-        },
         {
           "room": "Salão Nobre",
           "title": "Jogos Digitais & Criatividade",
