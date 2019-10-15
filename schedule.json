@@ -83,13 +83,13 @@
             },
             {
               "talk-id": "72",
-              "title": "Inovação digital + Transformação estratégica = Transformação digital",
+              "title": "5G: Revolução Digital",
               "hour": "19:00",
               "duration": "00:50",
               "speakers": [
                 {
                   "name": "Rozalvo Pereira Braga",
-                  "company": "5G: Revolução Digital - Anatel"
+                  "company": "Anatel"
                 }
               ]
             }
@@ -97,7 +97,7 @@
         },
         {
           "room": "Sala 2 + 3",
-          "title": "Tecnologias e Sociedade",
+          "title": "Indústria 4.0",
           "chairman": "Santhyago Gallão",
           "chairman-company": "Sidia Instituto de Ciência e Tecnologia",
           "talks": [
@@ -418,7 +418,7 @@
         },
         {
           "room": "Sala 2 + 3",
-          "title": "Indústria 4.0",
+          "title": "Tecnologias e Sociedade",
           "chairman": "Roberto Garcia",
           "chairman-company": "FPF Tech",
           "talks": [
@@ -968,7 +968,7 @@
               ]
             },
             {
-              "talk-id": "68",
+              "talk-id": "75",
               "title": "Lixo eletrônico: desafios e oportunidades",
               "hour": "16:00",
               "duration": "00:50",
@@ -984,7 +984,7 @@
               ]
             },
             {
-              "talk-id": "69",
+              "talk-id": "76",
               "title": "Microsoft Azure: Utilizando Inteligência Artificial para construir uma Nuvem Sustentável e Eficiente",
               "hour": "17:00",
               "duration": "00:50",
