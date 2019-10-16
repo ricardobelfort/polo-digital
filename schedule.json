@@ -4,6 +4,13 @@
       "id": "15",
       "trilha": [
         {
+          "room": "Arenas",
+          "title": "Arena Code War",
+          "chairman": "",
+          "chairman-company": "Polo digital",
+          "talks": []
+        },
+        {
           "room": "Credenciamento",
           "title": "Credenciamento - Entrada",
           "chairman": "",
@@ -339,6 +346,13 @@
     {
       "id": "16",
       "trilha": [
+        {
+          "room": "Arenas",
+          "title": "Arena Code War",
+          "chairman": "",
+          "chairman-company": "Polo digital",
+          "talks": []
+        },
         {
           "room": "Credenciamento",
           "title": "Credenciamento - Entrada",
@@ -694,6 +708,13 @@
     {
       "id": "17",
       "trilha": [
+        {
+          "room": "Arenas",
+          "title": "Arena Code War",
+          "chairman": "",
+          "chairman-company": "Polo digital",
+          "talks": []
+        },
         {
           "room": "Credenciamento",
           "title": "Credenciamento - Entrada",
